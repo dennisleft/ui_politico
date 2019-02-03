@@ -1,0 +1,57 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg.jpg);
+    background-size: cover;
+    
+    font-family: 'Trebuchet MS';
+}
+.image{
+    width: 30px;
+    height: 20px;
+    margin: 2px;
+    
+}
+
+.full{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(238, 136, 20);
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+
+.radio{
+    color: antiquewhite;
+    cursor: pointer;   
+}
+a{
+    color: antiquewhite;
+    cursor: pointer;
+    text-decoration: none;
+}
+.textbox{
+    width: 90%;
+    height: 20px;
+    margin: 2px;
+    border-color: black;
+    border-radius: 5px;
+}
+.button{
+    width: 90%;
+    height: 22px;
+    margin: 2px;
+    font-family: 'Trebuchet MS';
+    background-color: black;
+    color: antiquewhite;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+}
+p{
+    margin: 2px;
+}
