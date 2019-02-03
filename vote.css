@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 20px auto;
+    background: url(bg.jpg);
+    background-size: cover;
+    font-family: 'Trebuchet MS';
+    color: antiquewhite;
+}
+.header_1{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.top_menu{
+    text-align: center;
+    border-bottom: 2px solid burlywood;
+}
+.top_menu li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+}
+.article_1{
+    float: left;
+    width: 30%;
+    height: 500px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left;
+    
+    border-radius: 10px;
+}
+.article_2{
+    float: left;
+    width: 30%;
+    height: 500px;
+    padding: 10px;
+    margin: 20px;
+    text-align: left; 
+    border-radius: 10px;
+}
+.article_1 li{
+    width: 70%;
+    list-style: none;    
+}
+a{
+    font-family: 'Trebuchet MS';
+    color: antiquewhite;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.column_1{
+    width: 500px;
+    height: 20px;
+}
+.column_2{
+    width: 100px;
+    height: 20px;
+    text-align: center;
+}
+
+.top_row{
+    color: rgb(238, 136, 20);
+}
+
+footer{
+    clear: both;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid burlywood;
+}
+ .button{
+    width: 20%;
+    height: 26px;
+    margin: 2px;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(42, 90, 42);
+    color: antiquewhite;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+    float: right;
+ }
+.li_p{
+    width: 300px;
+    margin: 20px;
+    height: 30px;
+    
+}
+
+.ul_p{
+    display: none;
+    width: 150px;
+    position: relative;
+    float: right;
+}
+.ul_p li{
+    width: 300px;
+    height: 30px;
+}
+.ul_p li:hover{
+    background-color: rgb(238, 136, 20);
+    border-radius: 5px;
+    
+}
+.li_p:hover ul{
+    display: block;
+}
+.article_3{
+    float: left;
+    width: 25%;
+    height: 500px;
+    padding: 10px;
+    margin: 20px 30px;
+    text-align: left; 
+    border-radius: 10px;
+}
+.article_3 li{
+    margin: 20px;
+
+}
+.button_confirm{
+    width: 70px;
+    margin: 2px;
+    font-family: 'Trebuchet MS';
+    background-color: rgb(42, 90, 42);
+    color: antiquewhite;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+
+ }
