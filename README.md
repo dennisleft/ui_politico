@@ -8,3 +8,5 @@ https://github.com/dennisleft/ui_politico/pull/3
 https://github.com/dennisleft/ui_politico/pull/4
 
 https://github.com/dennisleft/ui_politico/pull/5
+
+https://github.com/dennisleft/ui_politico/pull/6
